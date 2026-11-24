@@ -1,0 +1,9 @@
+{
+  "template": "widerspruch-bescheid",
+  "region": "BE",
+  "place": "Berlin",
+  "date": "2026-11-27",
+  "sender": {"name": "Alex Beispiel", "street": "Musterstraße 12", "postcode": "10115", "city": "Berlin"},
+  "recipient": {"name": "Bezirksamt Mitte von Berlin", "extra": "Amt für Bürgerdienste", "street": "Karl-Marx-Allee 31", "postcode": "10178", "city": "Berlin"},
+  "values": {"bescheid_datum": "20.11.2026", "aktenzeichen": "BA-123/2026"}
+}

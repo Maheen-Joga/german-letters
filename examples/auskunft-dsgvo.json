@@ -1,0 +1,9 @@
+{
+  "template": "auskunft-dsgvo",
+  "place": "Berlin",
+  "date": "2026-11-23",
+  "sender": {"name": "Alex Beispiel", "street": "Musterstraße 12", "postcode": "10115", "city": "Berlin"},
+  "recipient": {"name": "Beispiel Online GmbH", "extra": "Datenschutzbeauftragte", "street": "Hafenstraße 1", "postcode": "20457", "city": "Hamburg"},
+  "values": {"bekannt_als": "Kundennummer 98765"},
+  "email": "alex@example.org"
+}

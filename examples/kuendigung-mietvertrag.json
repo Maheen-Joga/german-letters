@@ -1,0 +1,10 @@
+{
+  "template": "kuendigung-mietvertrag",
+  "region": "BE",
+  "place": "Berlin",
+  "date": "2026-11-23",
+  "sender": {"name": "Alex Beispiel", "street": "Musterstraße 12", "postcode": "10115", "city": "Berlin"},
+  "recipient": {"name": "Hausverwaltung Muster GmbH", "street": "Beispielweg 3", "postcode": "10117", "city": "Berlin"},
+  "values": {"wohnung": "Musterstraße 12, 3. OG links", "mietvertrag_datum": "01.04.2023"},
+  "email": "alex@example.org"
+}
