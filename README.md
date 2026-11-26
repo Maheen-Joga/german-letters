@@ -10,7 +10,7 @@ Help with writing, not legal advice.
 - [x] Deadlines (§§ 187-193 BGB) and public holidays for all 16 states
 - [x] Six letter templates with English explanations
 - [x] Printable DIN 5008 Form B page
-- [ ] Command line: list, show, deadline, write
+- [x] Command line: list, show, deadline, write
 - [ ] Claude skill (SKILL.md) and full documentation
 
 ```bash

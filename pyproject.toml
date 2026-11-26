@@ -16,6 +16,9 @@ dependencies = []
 [project.optional-dependencies]
 dev = ["pytest>=8"]
 
+[project.scripts]
+german-letters = "german_letters.cli:main"
+
 [tool.setuptools]
 packages = ["german_letters"]
 
